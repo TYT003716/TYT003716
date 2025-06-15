@@ -1,13 +1,9 @@
-# Hi there, I'm TYT003716 👋
+# Hi there, I'm Sabbir! 👋
 
 Welcome to my GitHub profile! Here's a bit about me:
 
 I am from China, and I joined this platform to build my personal website and start a blog. My goal is to expand my horizons by sharing my work, learning from the global community, and improving my skills.
 
-## What I Do
-- I'm passionate about technology, writing, and creating. Currently, I am working on a research project related to **land use** and **agricultural development** in China.
-- I also focus on **network security** and **discrete mathematics**, with an interest in applying these concepts to algorithms and system design.
-- On the side, I’m working on a **rural-urban conflict tragedy novel** to engage readers through compelling storytelling.
 
 ## Why I’m Here
 - To improve my web development skills and share my thoughts and projects.
@@ -17,10 +13,7 @@ I am from China, and I joined this platform to build my personal website and sta
 Feel free to explore my repositories and projects. If you have any questions, or just want to chat, feel free to reach out!
 
 Thanks for visiting! 🙌
- 
- ​## ​Top Languages
 
- 
-  
- ​![​Top Langs​]​(​https://github-readme-stats.vercel.app/api/top-langs/?username=TYT003716&layout=compact​)
- 
+## Top Languages
+
+​![Top Langs]（https://github-readme-stats.vercel.app/api/top-langs/?username=TYT003716&layout=compact)
