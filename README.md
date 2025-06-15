@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm TYT003716 👋
 
-<!--
-**TYT003716/TYT003716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here's a bit about me:
 
-Here are some ideas to get you started:
+I am from China, and I joined this platform to build my personal website and start a blog. My goal is to expand my horizons by sharing my work, learning from the global community, and improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+- I'm passionate about technology, writing, and creating. Currently, I am working on a research project related to **land use** and **agricultural development** in China.
+- I also focus on **network security** and **discrete mathematics**, with an interest in applying these concepts to algorithms and system design.
+- On the side, I’m working on a **rural-urban conflict tragedy novel** to engage readers through compelling storytelling.
+
+## Why I’m Here
+- To improve my web development skills and share my thoughts and projects.
+- To connect with other developers and writers around the world.
+- To continue growing and learning by contributing to various open-source projects and getting feedback.
+
+Feel free to explore my repositories and projects. If you have any questions, or just want to chat, feel free to reach out!
+
+Thanks for visiting! 🙌
+ 
+ ​## ​Top Languages
+
+ 
+  
+ ​![​Top Langs​]​(​https://github-readme-stats.vercel.app/api/top-langs/?username=TYT003716&layout=compact​)
+ 
